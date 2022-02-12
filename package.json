@@ -21,7 +21,10 @@
   "license": "MIT",
   "dependencies": {
     "commander": "^9.0.0",
-    "esm": "^3.2.25"
+    "esm": "^3.2.25",
+    "inquirer": "^8.2.0",
+    "nanospinner": "^1.0.0",
+    "pm2": "^5.1.2"
   },
   "files": [
     "bin/",
