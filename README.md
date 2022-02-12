@@ -1,7 +1,7 @@
 <div align="center">
 	<img src="./assets/runpier-cli-logo.png" width="70%"/>
 </div>
-___
+<hr/>
 
 ## 🚨 THIS PROJECT IS UNDER DEVELOPEMENT AND IS NOT WORKING FOR THE MOMENT 🚨
 Runpier cli is a hepler to register a project with pm2 to Runpier app
