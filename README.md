@@ -1,8 +1,8 @@
 # Runpier-cli
-
+## 🚨 THIS PROJECT IS UNDER DEVELOPEMENT AND IS NOT WORKING FOR THE MOMENT 🚨
 Runpier cli is a hepler to register a project with pm2 to Runpier app
 
-## Installation
+### Installation
 
 `npm install -g runpier-cli` 
 
