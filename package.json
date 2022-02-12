@@ -1,0 +1,30 @@
+{
+  "name": "runpier-cli",
+  "version": "1.0.0",
+  "description": "Runpier cli is a hepler to register a project with pm2 to Runpier app",
+  "main": "src/index.js",
+  "bin": {
+    "runpier": "bin/runpier"
+  },
+  "publishConfig": {
+    "access": "public"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "cli",
+    "Runpier",
+    "runpier"
+  ],
+  "author": "Enzo Coquelle",
+  "license": "MIT",
+  "dependencies": {
+    "commander": "^9.0.0",
+    "esm": "^3.2.25"
+  },
+  "files": [
+    "bin/",
+    "src/"
+  ]
+}
