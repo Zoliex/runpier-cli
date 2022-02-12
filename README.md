@@ -1,4 +1,7 @@
-# Runpier-cli
+<div align="center">
+	<img src="./assets/runpier-cli-logo.png"/>
+</div>
+
 ## 🚨 THIS PROJECT IS UNDER DEVELOPEMENT AND IS NOT WORKING FOR THE MOMENT 🚨
 Runpier cli is a hepler to register a project with pm2 to Runpier app
 
