@@ -1,5 +1,5 @@
 <div align="center">
-	<img src="./assets/runpier-cli-logo.png"/>
+	<img src="./assets/runpier-cli-logo.png" width="80%"/>
 </div>
 
 ## 🚨 THIS PROJECT IS UNDER DEVELOPEMENT AND IS NOT WORKING FOR THE MOMENT 🚨
