@@ -1,7 +1,7 @@
 {
   "name": "runpier-cli",
   "version": "1.0.2",
-  "description": "Runpier cli is a hepler to register a project with pm2 to Runpier app",
+  "description": "Runpier cli is a hepler to register and manage a project with pm2 to Runpier app",
   "main": "src/index.js",
   "bin": {
     "runpier": "bin/runpier"
