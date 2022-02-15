@@ -4,7 +4,6 @@
 
 ## 🚨 THIS PROJECT IS UNDER DEVELOPEMENT BUT IT WORKS 🚨
 </div>
-<hr/>
 
 Runpier cli is a hepler to simply create and manage a project with pm2.
 
