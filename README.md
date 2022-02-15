@@ -29,6 +29,8 @@ and then run `runpier help` to get all commands.
 
 `runpier stop` Stop a pm2 application instance.
 
+`runpier list` Get list of running pm2 applications.
+
 `runpier help [command]`  display help for command.
 
 
