@@ -1,7 +1,8 @@
 <div align="center">
 	<img src="./assets/runpier-cli-logo.png" width="70%"/>
 	<br />
-	## 🚨 THIS PROJECT IS UNDER DEVELOPEMENT BUT IT WORKS 🚨
+
+## 🚨 THIS PROJECT IS UNDER DEVELOPEMENT BUT IT WORKS 🚨
 </div>
 <hr/>
 
