@@ -13,6 +13,10 @@ Runpier cli is a hepler to simply create and manage a project with pm2.
 
 and then run `runpier help` to get all commands.
 
+### Update
+
+`npm update runpier-cli -g`
+
 ### Commands
 
 `runpier create` Create a pm2 application instance.
