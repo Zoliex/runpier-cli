@@ -1,11 +1,12 @@
 const { Command } = require('commander');
 const fs = require('fs');
 const path = require('path');
+const { createSpinner } = require('nanospinner');
 
 const config = require("../package.json");
 
 module.exports.cli = async function (args) {
-	console.log("Loading command...")
+	const loading = createSpinner('Loading command').start();
 	const program = new Command();
 	program
 		.name(config.name)
@@ -16,5 +17,6 @@ module.exports.cli = async function (args) {
 		require(path.join(__dirname + `/commands/${command}`)).run(program);
 	})
 
+	loading.success();
 	program.parse();
 }
