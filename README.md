@@ -15,17 +15,17 @@ and then run `runpier help` to get all commands.
 
 ### Commands
 
-**runpier create** Create a pm2 application instance.
+`runpier create` Create a pm2 application instance.
 
-**runpier dashboard** Getting pm2 dashboard.
+`runpier dashboard` Getting pm2 dashboard.
 
-**runpier restart** Restart a pm2 application instance.
+`runpier restart` Restart a pm2 application instance.
 
-**runpier start** Start a pm2 application instance.
+`runpier start` Start a pm2 application instance.
 
-**runpier stop** Stop a pm2 application instance.
+`runpier stop` Stop a pm2 application instance.
 
-**runpier help [command]**  display help for command.
+`runpier help [command]`  display help for command.
 
 
 ### You have an issue with this cli package ?
