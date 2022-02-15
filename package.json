@@ -15,7 +15,8 @@
   "keywords": [
     "cli",
     "Runpier",
-    "runpier"
+    "runpier",
+    "pm2"
   ],
   "author": "Enzo Coquelle",
   "license": "MIT",
