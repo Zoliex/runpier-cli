@@ -24,4 +24,4 @@ and then run `runpier help` to get all commands.
 
 ### You have an issue with this cli package ?
 Please tell me your issue on the project github page :
-https://github.com/Zoliex/runpier-cli
+https://github.com/Zoliex/runpier-cli/issues
