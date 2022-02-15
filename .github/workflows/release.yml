@@ -25,4 +25,4 @@ jobs:
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
           NPM_TOKEN: ${{ secrets.NPM_TOKEN }}
-        run: npx -p node@lts -c "npx semantic-release"
+        run: npm install @semantic-release/git && npx -p node@lts -c "npx semantic-release"
